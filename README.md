@@ -1,75 +1,65 @@
-<<<<<<< HEAD
-# budget-tracker
-A react app the implements redux for company budget allocation
-=======
-# Getting Started with Create React App
+# Budget Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Budget Tracker app! 🎉 This application helps you manage your company's budget allocations in a simple and intuitive way. Whether you're keeping tabs on marketing expenses or making sure the IT department stays within budget, this tool has you covered.
 
-## Available Scripts
+## What is Budget Tracker?
 
-In the project directory, you can run:
+Budget Tracker is a web application designed to help you allocate your company's budget across different departments efficiently. With a clean and modern UI, it's easy to add or reduce expenses, view total expenditures, and see how much of your budget remains.
 
-### `npm start`
+### Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Set and Update Budget:** Easily set your overall budget and update it as needed.
+- **Add/Reduce Expenses:** Allocate funds to various departments and adjust allocations on the fly.
+- **Expense List:** View a detailed list of all expenses, including options to increase specific allocations or delete entries.
+- **Total and Remaining Budget:** Instantly see the total amount spent and the remaining budget.
+- **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Screenshot
 
-### `npm test`
+Here's a snapshot of the Budget Tracker in action:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Budget Tracker Screenshot](https://github.com/PatrickKish1/budget-tracker/blob/main/src/tracker.png)
 
-### `npm run build`
+### Try It Out
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Curious to see how it works? Check out the live version of the Budget Tracker app:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Budget Tracker Live Site](https://patrickkish1.github.io/budget-tracker/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Getting Started
 
-### `npm run eject`
+To get started with Budget Tracker locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/PatrickKish1/budget-tracker.git
+    ```
+2. **Navigate to the Project Directory:**
+    ```bash
+    cd budget-tracker
+    ```
+3. **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+4. **Run the Application:**
+    ```bash
+    npm start
+    ```
+   The app will open in your default browser at `http://localhost:3000`.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you'd like to contribute to the development of Budget Tracker, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Feedback
 
-## Learn More
+I hope you find Budget Tracker helpful for managing your company's finances. If you have any feedback or suggestions, please don't hesitate to reach out.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Happy budgeting! 💰
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+**Author:** Patrick Kish
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 81bc180 (Initialize project using Create React App)
+**GitHub:** [PatrickKish1](https://github.com/PatrickKish1)
